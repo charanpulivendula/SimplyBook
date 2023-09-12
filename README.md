@@ -35,9 +35,12 @@ Serving all of Bloomington, IN, with plans to expand to other cities and states,
 
 ## Tech Stack
 
-- **Front End**: ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png) 
-- **Server Tier**: ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) and ![Express.js Logo](https://expressjs.com/images/express-facebook-share.png)
-- **Database Tier**: ![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png)
+- **Front End**:
+- ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png) 
+- **Server Tier**:
+- ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) and ![Express.js Logo](https://expressjs.com/images/express-facebook-share.png)
+- **Database Tier**:
+- ![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png)
 
 ## Summary
 
